@@ -9,3 +9,6 @@
 2. 크롬 브라우저에서 Web Server for Chrome 을 설치하고
 3. [압축을 푼 폴더]를 선택한다.
 4. http://127.0.0.1:8887 로 접속
+
+
+![image](https://github.com/kmans1123/face-api.img/assets/119734977/7ad468f2-efa9-430a-afbd-f45ddc1901dc)
